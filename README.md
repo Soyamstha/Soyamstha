@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamstha&label=Profile%20views&color=0e75b6&style=flat" alt="soyamstha" /> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **java, php and c++**
+- 💬 Ask me about **java, php , Laravel and c++**
 
 - 📫 How to reach me **shrestha.soyam111@gmail.com**
 
