@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soyam Shrestha</h1>
-<h3 align="center">A passionate Full stack developer in training with a goal to become a software engineer.</h3>
+<h3 align="center">A passionate Full stack developer in training with a goal to become a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamstha&label=Profile%20views&color=0e75b6&style=flat" alt="soyamstha" /> </p>
 
