@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, PHP,Laravel and C++**
+- 💬 Ask me about **Java, PHP, Laravel and C++**
 
 - 📫 How to reach me **shrestha.soyam111@gmail.com**
 
