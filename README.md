@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soyam Shrestha</h1>
 <h3 align="center">A passionate Full stack web developer in training with a goal to become a software engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamstha&label=Profile%20views&color=0e75b6&style=flat" alt="soyamstha" />10000 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamstha&label=Profile%20views&color=0e75b6&style=flat" alt="soyamstha" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
